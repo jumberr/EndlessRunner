@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Game
+  m_EditorClassIdentifier: 
+  m_GroupName: Game
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 91232ddf042930d48ac7e8d389871414
+  m_SerializeEntries:
+  - m_GUID: 77000650d4c82c445adb3b9972e7c9db
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c40a1ef00a05b104d968766190c80991
+    m_Address: Camera
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af8d39b1dabbe6140ac4cabada1461db
+    m_Address: ObstacleGenerator
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1f4fb2321cec78142922c0843d12724c
+    m_Address: Obstacle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cd3800b4d11157a4da3b6e29155c13ed
+    m_Address: ObstacleReuser
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 402d5fd38eefda549925878a18c83526, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: ea21bb7c0cac8f7438b725d1436c0356, type: 2}
+    - {fileID: 11400000, guid: f59833e125adeb744abbf79671251baf, type: 2}
